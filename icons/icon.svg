@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   id="svg5"
+   version="1.1"
+   viewBox="0 0 128 128"
+   height="128mm"
+   width="128mm"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   sodipodi:docname="icon.svg"
+   inkscape:export-filename="icon-16.png"
+   inkscape:export-xdpi="3.27"
+   inkscape:export-ydpi="3.27"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.2021872"
+     inkscape:cx="89.836258"
+     inkscape:cy="253.70425"
+     inkscape:window-width="1335"
+     inkscape:window-height="916"
+     inkscape:window-x="177"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     showguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid9"
+       originx="0"
+       originy="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <rect
+       x="0"
+       y="0"
+       width="482.45397"
+       height="482.45397"
+       id="rect1100" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#6aaa64;stroke-width:0.264583;fill-opacity:1"
+       id="rect113"
+       width="128"
+       height="128"
+       x="0"
+       y="1.6609214e-11"
+       rx="15.2" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-0.23307336,11.267215)"
+       id="text1098"
+       style="font-size:341.333px;text-align:center;white-space:pre;shape-inside:url(#rect1100);display:inline;fill:#ffffff"><tspan
+         x="72.476723"
+         y="311.40845"
+         id="tspan301">W</tspan></text>
+  </g>
+</svg>

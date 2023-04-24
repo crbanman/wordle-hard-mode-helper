@@ -1,0 +1,18 @@
+{
+  "name": "wordle-hard-mode-helper",
+  "version": "1.0.0",
+  "description": "A Chrome extension that keeps you from playing a letter that you've already played that is not in the word.",
+  "scripts": {
+    "package": "zip wordle-hard-mode-helper.zip -r * -x .git/* -x LICENSE -x README.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crbanman/wordle-hard-mode-helper.git"
+  },
+  "author": "crbanman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crbanman/wordle-hard-mode-helper/issues"
+  },
+  "homepage": "https://github.com/crbanman/wordle-hard-mode-helper#readme"
+}
