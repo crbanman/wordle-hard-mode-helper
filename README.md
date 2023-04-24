@@ -4,6 +4,8 @@
 
 This is a Chrome extension that keeps you from playing a letter that you've already played that is not in the word.
 
+You can download the extension [here](https://chrome.google.com/webstore/detail/wordle-hard-mode-helper/bdojpocbipgajfgcpifnabjdalcibfig).
+
 ## How it works
 
 When you type or click a letter, the extension will check if that letter has already been played and marked as not in the word. If it has the backspace key will be triggered removing the letter.
