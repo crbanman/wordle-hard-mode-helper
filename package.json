@@ -1,6 +1,6 @@
 {
   "name": "wordle-hard-mode-helper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Chrome extension that keeps you from playing a letter that you've already played that is not in the word.",
   "scripts": {
     "package": "zip wordle-hard-mode-helper.zip -r * -x .git/* -x LICENSE -x README.md"
